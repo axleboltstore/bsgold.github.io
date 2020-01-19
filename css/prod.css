@@ -147,86 +147,14 @@ main>div#box>div#form>div#order1 {
     margin-top: 15%;
     text-align: center;
     float: left;
-    width: 20%;
-}
-
-main>div#box>div#form>div#title1 {
-    margin-top: 15%;
-    float: right;
     width: 80%;
 }
 
 main>div#box>div#form>div#order1>img {
-    width: 30%;
-    margin-left: 5%;
-    margin-top: 5%;
-    box-shadow: 1px 1px 10px #000;
-    border-radius: 50%;
-}
-
-main>div#box>div#form>div#title1>span {
-    display: inline-block;
-    margin-top: 1.2%;
-    font-family: 'Exo 2', sans-serif;
-    font-size: 2vw;
-    color: #FFF;
-}
-
-main>div#box>div#form>div#order2 {
-    margin-top: 4%;
-    text-align: center;
-    float: left;
-    width: 20%;
-}
-
-main>div#box>div#form>div#title2 {
-    margin-top: 4%;
-    float: right;
     width: 80%;
-}
-
-main>div#box>div#form>div#order2>img {
-    width: 30%;
     margin-left: 5%;
     margin-top: 5%;
     box-shadow: 1px 1px 10px #000;
-    border-radius: 50%;
-}
-
-main>div#box>div#form>div#title2>span {
-    display: inline-block;
-    margin-top: 1.2%;
-    font-family: 'Exo 2', sans-serif;
-    font-size: 2vw;
-    color: #FFF;
-}
-main>div#box>div#form>div#order3 {
-    margin-top: 4%;
-    text-align: center;
-    float: left;
-    width: 20%;
-}
-
-main>div#box>div#form>div#title3 {
-    margin-top: 4%;
-    float: right;
-    width: 80%;
-}
-
-main>div#box>div#form>div#order3>img {
-    width: 30%;
-    margin-left: 5%;
-    margin-top: 5%;
-    box-shadow: 1px 1px 10px #000;
-    border-radius: 50%;
-}
-
-main>div#box>div#form>div#title3>span {
-    display: inline-block;
-    margin-top: 1.2%;
-    font-family: 'Exo 2', sans-serif;
-    font-size: 2vw;
-    color: #FFF;
 }
 
 main>div#box>div#form>input#f1 {

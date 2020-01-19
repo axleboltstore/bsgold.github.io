@@ -67,11 +67,10 @@ header>div#links>a#l3:hover {
 
 header>div#links>a#l4 {
     left: 7%;
-    background-color: rgba(41, 40, 39, 0.3);
+    background-color: rgba(55, 55, 55, 0.3);
     color: #FFF;
     padding: 1%;
     top: 30%;
-    box-shadow: 1px 1px 5px #000;
 }
 
 header>div#links>a#l4>span {

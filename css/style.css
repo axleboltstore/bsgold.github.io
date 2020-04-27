@@ -115,7 +115,7 @@ main>div#box>div#prod>img {
 }
 
 main>div#box>div#prod>img:hover {
-    box-shadow: 1px 1px 10px #ffd700;
+    box-shadow: 1px 1px 10px #000;
 }
 
 main>div#box2 {

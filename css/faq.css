@@ -147,6 +147,19 @@ main>div#box>div#steps>img {
     margin-left: 5%;
 }
 
+main>div#box>div#steps>span#e {
+    font-family: 'Exo 2', sans-serif;
+    font-size: 0.8vw;
+    color: rgb(149, 7, 7);
+}
+
+main>div#box>div#steps>span#e>a {
+    font-family: 'Exo 2', sans-serif;
+    font-size: 0.8vw;
+    color: rgb(149, 7, 7);
+    text-decoration: none;
+}
+
 footer {
     width: 100%;
 }
